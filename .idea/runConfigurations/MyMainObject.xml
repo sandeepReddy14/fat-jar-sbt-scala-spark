@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MyMainObject" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="myPackage.MyMainObject" />
+    <module name="fat-jar-sbt-scala-spark-2" />
+    <option name="PROGRAM_PARAMETERS" value="&quot;$USER_HOME$/Downloads/zipcodes.csv&quot;" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="myPackage.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
